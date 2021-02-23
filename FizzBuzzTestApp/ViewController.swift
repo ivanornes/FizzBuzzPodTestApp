@@ -6,14 +6,15 @@
 //
 
 import UIKit
+import FizzBuzz
 
 class ViewController: UIViewController {
 
+    lazy var fizzBuzz = FizzBuzz()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        (1...100).forEach { print(fizzBuzz.process(number: $0)) }
     }
-
-
 }
 

@@ -1,0 +1,16 @@
+PODS:
+  - FizzBuzz (1.0.1)
+
+DEPENDENCIES:
+  - FizzBuzz
+
+SPEC REPOS:
+  https://github.com/ivanornes/Specs.git:
+    - FizzBuzz
+
+SPEC CHECKSUMS:
+  FizzBuzz: b618e9f4280fb7012ccfcc2e365903b6711db858
+
+PODFILE CHECKSUM: 5b7e9c061486aeff3f596f140d180f21a54fc1ad
+
+COCOAPODS: 1.10.1

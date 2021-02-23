@@ -1,0 +1,6 @@
+framework module FizzBuzz {
+  umbrella header "FizzBuzz-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_FizzBuzzTestApp {
+  umbrella header "Pods-FizzBuzzTestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
